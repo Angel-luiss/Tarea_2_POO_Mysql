@@ -1,0 +1,9 @@
+﻿  ConexionBD.cpp
+  Producto.cpp
+  Tarea_POO_Mysql.cpp
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Tarea_POO_Mysql.cpp(84,27): error C2248: 'Producto::Producto': no se puede obtener acceso al miembro protected miembro declarado en la clase 'Producto'
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Producto.h(18): message : vea la declaración de 'Producto::Producto'
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Producto.h(9): message : vea la declaración de 'Producto'
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Tarea_POO_Mysql.cpp(85,12): error C2248: 'Producto::leer': no se puede obtener acceso al miembro protected miembro declarado en la clase 'Producto'
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Producto.h(43): message : vea la declaración de 'Producto::leer'
+C:\Users\HP\Documents\Nueva carpeta\Tarea_POO_Mysql\Tarea_POO_Mysql\Producto.h(9): message : vea la declaración de 'Producto'
